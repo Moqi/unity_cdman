@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: 2d84283ab61945b46ab95a09c2c02999
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 40
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: die_full_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 69
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: die_full_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 69
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: die_full_2
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 69
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: die_full_3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 69
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: die_full_4
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 69
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: die_full_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 35
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: die_full_6
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 35
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: die_full_7
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 35
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: die_full_8
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 35
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: die_full_9
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 35
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: die_full_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 4
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: die_full_11
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 4
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: die_full_12
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 4
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: die_full_13
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 4
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: die_full_14
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 4
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 
